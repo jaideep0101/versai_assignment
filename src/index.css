@@ -1,8 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Nunito&family=Open+Sans&family=Quattrocento:wght@700&display=swap");
 
+  *{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+   
+}
 html{
-    scroll-behavior: smooth;
-  }
-  ::-webkit-scrollbar{
-    display: none;
-  }
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar{
+  display: none;
+}
+
+body{
+    background-color: #E5E5E5;
+}
