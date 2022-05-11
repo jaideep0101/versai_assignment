@@ -1,6 +1,6 @@
 import React from 'react';
 import {Home,Shows,Reviews} from "./components/index";
-import "./app.css"
+import "./app.css";
 const app = () => {
   return (
       <div>
